@@ -1,0 +1,11 @@
+REM Title: Super Rickroll
+REM Author: Milo Cruz
+
+WINDOWS r
+REPEAT 99
+
+DELAY 500
+REPEAT 99
+
+STRINGLN https://www.youtube.com/watch?v=dQw4w9WgXcQ
+REPEAT 99
